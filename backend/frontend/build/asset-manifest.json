@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1879e69d.css",
+    "main.js": "/static/js/main.dad6d16a.js",
+    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
+    "static/media/HeelCake.png": "/static/media/HeelCake.fc9786476796e9106b93.png",
+    "static/media/Purse.png": "/static/media/Purse.6505506004799f5c19bc.png",
+    "static/media/SquarLogo.png": "/static/media/SquarLogo.e63d002b530bf2279a0c.png",
+    "static/media/Cake1.jpg": "/static/media/Cake1.9159db79b38a7affa6b6.jpg",
+    "index.html": "/index.html",
+    "main.1879e69d.css.map": "/static/css/main.1879e69d.css.map",
+    "main.dad6d16a.js.map": "/static/js/main.dad6d16a.js.map",
+    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1879e69d.css",
+    "static/js/main.dad6d16a.js"
+  ]
+}
